@@ -1,3 +1,7 @@
+---
+tags: intro, methods, ruby, kids
+type: intro
+---
 ### Unit Goals
 * Learn how to find Ruby's **built-in methods in the Ruby documentation**
 * **write your own** methods in Ruby
