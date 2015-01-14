@@ -2,7 +2,7 @@
 tags: intro, methods, ruby, kids
 type: intro
 ---
-### Unit Goals
+### Students Will Be Able To...
 * Learn how to find Ruby's **built-in methods in the Ruby documentation**
 * **write your own** methods in Ruby
 * **Use interactive ruby (IRB)** to test out your code
