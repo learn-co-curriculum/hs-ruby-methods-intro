@@ -1,7 +1,4 @@
----
-tags: intro, methods, ruby, kids
-type: intro
----
+
 ### Students Will Be Able To...
 * Learn how to find Ruby's **built-in methods in the Ruby documentation**
 * **write your own** methods in Ruby
